@@ -1,6 +1,6 @@
 ---
 title: "<center> **Título del Proyecto.** </center>"
-subtitle: "<center> **Subtítulo del Proyecto** </center>"
+subtitle: "<center> **Subtítulo del Proyecto** </center> <br>"
 author: Grupo N°
 date: "`r Sys.Date()`"
 output:

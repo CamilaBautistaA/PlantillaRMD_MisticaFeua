@@ -19,3 +19,5 @@ install.packages("rmdformats")
 <img width="979" height="630" alt="Portada Plantilla Mística FEUA 2" src="https://github.com/user-attachments/assets/d175b073-c9d4-4256-a425-7a73ce02314e" />
 
 Vista previa completa: [Aquí](https://camilabautistaa.github.io/PlantillaRMD_MisticaFeua/)
+
+Creado por: Camila Bautista Aldave 
